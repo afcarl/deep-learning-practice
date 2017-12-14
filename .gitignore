@@ -1,0 +1,6 @@
+MNIST_data/
+test.py
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+
